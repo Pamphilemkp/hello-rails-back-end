@@ -52,26 +52,23 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 hello_react_front_end <a name="about-project"></a>
+# 📖 hello-rails-backend <a name="about-project"></a>
 
-> A Rails app for storing storing data in the server and servinn the react app front-end through the api
+> A Rails app for storing storing data in the server and serving the react app front-end through the api
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 <details>
-  <summary>Ruby</summary>
+  <summary>Languages</summary>
   <ul>
-    <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiMv42llPn7AhUETKQEHcqJBGYQFnoECAsQAQ&url=https%3A%2F%2Fwww.javascript.com%2F&usg=AOvVaw2t3n3FoztAEJ6zUU6XdzS5">Javascript</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">RUBY</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Frameworks</summary>
   <ul>
-    <li><a href="https://reactjs.org/">Rails</a></li>
-  </ul>
-  <ul>
-    <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiHx8rTkvn7AhUOyxoKHf-QBMoQFnoECA8QAQ&url=https%3A%2F%2Fredux.js.org%2F&usg=AOvVaw2uWo8dr3-4vv1B3bbPtcu9">Redux</a></li>
+    <li><a href="https://rubyonrails.org/">Rails</a></li>
   </ul>
 </details>
 
@@ -95,31 +92,32 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
  
- - Install [React](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-ivabk_n7AhUSxIUKHX6RBtgQFnoECBIQAQ&url=https%3A%2F%2Freactjs.org%2Fdocs%2Fgetting-started.html&usg=AOvVaw2ELKlyujw4msP4lLpv0rOd)
+ - Install [RAILS](https://rubyonrails.org/)
 
-
+### Frontend
+ - Click [here](https://github.com/Pamphilemkp/hello-react-front-end/tree/frotend) to go to the frontend 
 ### Setup
 
 Clone this repository to your desired folder:
 
 
   - cd my-folder
-  - git clone https://github.com/pamphilemkp/hello-react-back-end.git
+  - git clone https://github.com/pamphilemkp/hello-rails-back-end.git
 
 
 ### Install
 
 Install this project with:
 
-  - cd hello-react-back-end
-  - npm install
+  - cd hello-rails-back-end
+  - bundle install
 
 
 ### Usage
 
 To run the project on the server, execute the following command:
 
-  - npm start
+  - bundle install
 
 <!-- AUTHORS -->
 
