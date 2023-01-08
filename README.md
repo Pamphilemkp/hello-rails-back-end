@@ -126,7 +126,7 @@ To run the project on the server, execute the following command:
 👤 **Pamphile MKP**
 
 - GitHub: [@pamphilemkp](https://github.com/pamphilemkp)
-- LinkedIn: [@pamphilemkp](https://www.linkedin.com/in/pamphilemkp/)
+- LinkedIn: [@pamphilemkp](https://www.linkedin.com/in/pamphile-musonda)
 - Twitter: [@pamphilemkp](https://twitter.com/pamphilemkp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
